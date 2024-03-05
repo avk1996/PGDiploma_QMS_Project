@@ -1,1 +1,3 @@
 /.metadata/
+# all compiled files
+*.class
